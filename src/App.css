@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: #ffbdbd;
+}
+
+.jumbotron{
+  text-align: center;
+  border-radius: 10px;
+  border: 3.5px solid black;
+}
+
+.display-2{
+  color: deepskyblue;
+  font-weight: 700;
+}
+.lead{
+  color: black;
+  font-family: monospace;
+}
+
+.form-control{
+  border: 3px solid black;
+}
+
+.list-group-item{
+  border: 3px solid black;
+  border-radius: 10px 10px 10px 10px;
+}
